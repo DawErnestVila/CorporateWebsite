@@ -1,5 +1,4 @@
 
-
 p {
     display: block;
     width: 40%;
@@ -15,6 +14,6 @@ img {
  .contingut div{
      background-color: rgb(255,255,255,0.75);
      border-radius: 10px;
-     height: 75%;
+     height: 80%;
      margin-bottom: 10%;
  }
